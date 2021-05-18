@@ -42,7 +42,7 @@ namespace WFtextchanger
             }
             if (wm.Checked)
             {
-                this.textBox1.Font = new System.Drawing.Font("Arial", 6 );
+                this.textBox1.Font = new System.Drawing.Font("Arial", 8 );
             }
             if (wd.Checked)
             {
